@@ -1,0 +1,24 @@
+GÉANT DES COLLINES MAUDIT
+Géant de taille P, loyal mauvais
+Classe d'armure 13 (armure naturelle)
+Points de vie 27 (6d6 + 6)
+Vitesse 6 m
+FOR
+14 (+2)  DEX
+10 (+0)  CON
+12 (+1)  INT
+8 (-1)  SAG
+10 (+0)  CHA
+8 (-1)
+Compétences Perception +2
+Sens Perception passive 12
+Langues géant, gobelin
+Puissance 1 (100 PX)
+Attaques multiples. Le géant maudit effectue deux attaques avec la massue. Si le géant des collines maudit touche la même cible avec ses deux attaques de massue, la cible doit réussir un jet de sauvegarde de Constitution DD 10 ou être incapable d'agir jusqu'à la fin de son prochain tour.
+
+ACTIONS
+Massue. Attaque au corps à corps avec une arme : +4 au toucher, allonge 1,50 m, une cible. Touché : 5 (1d6 + 2) dégâts contondants.
+
+Rocher. Attaque à distance avec une arme : +4 au toucher, portée 6/18 m, une cible. Touché : 6 (1d8 + 2) dégâts contondants.
+
+La malédiction temporaire dont souffre ce géant l'a réduit à la taille d'un gobelin. Bien que d'une taille raisonnable, son gourdin constitue encore une menace.
