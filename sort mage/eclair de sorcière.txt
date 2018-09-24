@@ -1,0 +1,1 @@
+Éclair de sorcière	1	évocation	Si l'attaque avec un sort touche, inflige 1d12 dégâts de foudre (dégâts/niv) à chaque round.

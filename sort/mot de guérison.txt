@@ -1,0 +1,1 @@
+Mot de guérison	1	évocation	1 créature récupère 1d4+Mod.Carac pv (+1d4 pv/niv).

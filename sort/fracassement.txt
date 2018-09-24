@@ -1,0 +1,1 @@
+Fracassement	2	évocation	Les créatures dans une sphère de 3 m de rayon doivent réussir un JdS de Con. ou subir 3d8 dégâts de tonnerre (dégâts/niv).

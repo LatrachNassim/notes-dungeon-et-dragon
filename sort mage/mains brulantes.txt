@@ -1,0 +1,1 @@
+Mains brûlantes	1	évocation	Les créatures dans un cône de 4,50 m doivent réussir un JdS de Dex. ou subir 3d6 dégâts de feu (dégâts/niv).

@@ -1,0 +1,1 @@
+Héroïsme	1	enchantement	La cible est immunisée contre la condition effrayé et gagne Mod.Carac.Inc pv temporaires/round (+1 créatures/niv).

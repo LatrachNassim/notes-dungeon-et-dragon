@@ -1,0 +1,1 @@
+Orbe chromatique	1	évocation	Si l'attaque avec un sort touche, inflige 3d8 dégâts d'un type préalablement déterminé (dégâts/niv).

@@ -1,0 +1,1 @@
+	Projectile magique	1	évocation	3 projectiles infligent automatiquement 1d4+1 dégâts de force chacun à une ou plusieurs créatures (+1 projectile/niv).
